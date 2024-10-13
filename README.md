@@ -16,3 +16,5 @@ pyinstaller --onefile keylogger.py.
 
 Or just embedd it in a python code file in a way which is hidden (well obviously)
 
+Twitter https://x.com/HaithamCode
+Reddit https://www.reddit.com/user/haithamaljabbari
